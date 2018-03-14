@@ -1,0 +1,56 @@
+body{
+  text-align: center;
+}
+.jumbotron{
+	background-color: red;
+	color: white;
+}
+h1 {
+	color: white;
+}
+li {
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-bottom: 5px;
+  font: sans-serif;
+  background: #faebd7;
+  margin-bottom: 10px
+}
+.enter-section{
+	background-color: green;
+	border-radius: 50px;
+	color: white;
+	margin-right: 5px;
+}
+#text-enter-button{
+	background-color: white;
+	color: green;
+	border-radius: 5px;
+}
+#eat{
+	align-content: center;
+	background-color: orange;
+	border-radius: 50px;
+	color: white;
+	margin-right: 5px;
+}
+.ate {
+	background-color: blue;
+	color: white;
+	border-radius: 50px;
+	margin-right: 5px;
+}
+ul{
+	margin: 0;
+	padding-left: 0;
+	padding-bottom: 20px;
+}
+.rburger{
+	font: sans-serif;
+}
+.form-control {
+	margin-bottom: 20px
+
+}
+
+
